@@ -6,6 +6,9 @@ pip 23.0.1
 django 4.1.7
 django-admin 4.1.7
 
+## Run server
+> python webapi/manage.py runserver
+
 ## Docker
 ### Build docker image
 > docker build -t django .
