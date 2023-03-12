@@ -1,5 +1,9 @@
 # Django
 
+## Installation needed
+> sudo apt-get install mysql
+> sudo apt-get install libmysqlclient-dev
+
 ## Version
 python 3.10.4
 pip 23.0.1
